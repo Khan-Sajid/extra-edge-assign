@@ -1,0 +1,15 @@
+
+.select{
+  width: 400px;
+  padding: 7px;
+  margin: 5px;
+  border-radius: 5px;
+}
+.search-btn{
+  width: 100px;
+  padding: 7px;
+  margin: 5px;
+  border: none;
+  background-color: rgb(197, 238, 13);
+  border-radius: 5px;
+}

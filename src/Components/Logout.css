@@ -1,0 +1,20 @@
+
+.logout{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.logout_button{
+    padding: 12px 30px;
+    margin-top: 300px;
+    background: black;
+    border: none;
+    color: antiquewhite;
+    border-radius: 3px;
+}
+
+.user_name{
+    color: rgb(110, 38, 110);
+}
